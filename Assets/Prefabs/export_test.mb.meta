@@ -1,0 +1,1136 @@
+fileFormatVersion: 2
+guid: fe4a49bbe17343e4b8b5d2061f21bb0f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: kid_rig_finito:backpack_msh
+    100004: kid_rig_finito:blelly
+    100006: kid_rig_finito:blelly_0
+    100008: kid_rig_finito:blelly_dk
+    100010: kid_rig_finito:cap_msh
+    100012: kid_rig_finito:capTop_msh
+    100014: kid_rig_finito:chest
+    100016: kid_rig_finito:chest_0
+    100018: kid_rig_finito:chest_dk
+    100020: kid_rig_finito:Ctrl_g
+    100022: kid_rig_finito:end
+    100024: kid_rig_finito:hairs_msh
+    100026: kid_rig_finito:head
+    100028: kid_rig_finito:head_0
+    100030: kid_rig_finito:head_dk
+    100032: kid_rig_finito:head_msh
+    100034: kid_rig_finito:ikHandle1
+    100036: kid_rig_finito:ikHandle2
+    100038: kid_rig_finito:ikHandle3
+    100040: kid_rig_finito:ikHandle4
+    100042: kid_rig_finito:ikHandle5
+    100044: kid_rig_finito:ikHandle6
+    100046: kid_rig_finito:kid_msh_grp
+    100048: kid_rig_finito:l_ankle
+    100050: kid_rig_finito:l_ankle_ik
+    100052: kid_rig_finito:l_elbow
+    100054: kid_rig_finito:l_elbow_0
+    100056: kid_rig_finito:l_elbow_dk
+    100058: kid_rig_finito:l_foot
+    100060: kid_rig_finito:l_foot_ik
+    100062: kid_rig_finito:l_hand
+    100064: kid_rig_finito:l_hand_msh
+    100066: kid_rig_finito:l_heel_ik
+    100068: kid_rig_finito:l_hip
+    100070: kid_rig_finito:l_knee
+    100072: kid_rig_finito:l_leg_0
+    100074: kid_rig_finito:l_leg_dk
+    100076: kid_rig_finito:l_leg_msh
+    100078: kid_rig_finito:l_leg_msh1
+    100080: kid_rig_finito:l_shoe_msh
+    100082: kid_rig_finito:l_shoulder
+    100084: kid_rig_finito:l_shoulder_0
+    100086: kid_rig_finito:l_shoulder_dk
+    100088: kid_rig_finito:l_toe
+    100090: kid_rig_finito:l_toe_ik
+    100092: kid_rig_finito:l_wrist
+    100094: kid_rig_finito:l_wrist_0
+    100096: kid_rig_finito:l_wrsit_dk
+    100098: kid_rig_finito:master_ctrl
+    100100: kid_rig_finito:neck
+    100102: kid_rig_finito:neck_0
+    100104: kid_rig_finito:neck_dk
+    100106: kid_rig_finito:nurbsCircle1
+    100108: kid_rig_finito:nurbsCircle10
+    100110: kid_rig_finito:nurbsCircle11
+    100112: kid_rig_finito:nurbsCircle12
+    100114: kid_rig_finito:nurbsCircle13
+    100116: kid_rig_finito:nurbsCircle14
+    100118: kid_rig_finito:nurbsCircle2
+    100120: kid_rig_finito:nurbsCircle3
+    100122: kid_rig_finito:nurbsCircle4
+    100124: kid_rig_finito:nurbsCircle6
+    100126: kid_rig_finito:nurbsCircle7
+    100128: kid_rig_finito:nurbsCircle8
+    100130: kid_rig_finito:nurbsCircle9
+    100132: kid_rig_finito:r_ankle
+    100134: kid_rig_finito:r_ankle_ik
+    100136: kid_rig_finito:r_elbow
+    100138: kid_rig_finito:r_elbow_0
+    100140: kid_rig_finito:r_elbow_dk
+    100142: kid_rig_finito:r_foot
+    100144: kid_rig_finito:r_foot_ik
+    100146: kid_rig_finito:r_hand
+    100148: kid_rig_finito:r_hand_msh
+    100150: kid_rig_finito:r_heer_ik
+    100152: kid_rig_finito:r_hip
+    100154: kid_rig_finito:r_knee
+    100156: kid_rig_finito:r_leg_0
+    100158: kid_rig_finito:r_leg_dk
+    100160: kid_rig_finito:r_shoe_msh
+    100162: kid_rig_finito:r_shoulder
+    100164: kid_rig_finito:r_shoulder_0
+    100166: kid_rig_finito:r_shoulder_dk
+    100168: kid_rig_finito:r_toe
+    100170: kid_rig_finito:r_toe_ik
+    100172: kid_rig_finito:r_wrist
+    100174: kid_rig_finito:r_wrist_0
+    100176: kid_rig_finito:r_wrist_dk
+    100178: kid_rig_finito:Rig_G
+    100180: kid_rig_finito:root
+    100182: kid_rig_finito:root_0
+    100184: kid_rig_finito:root_dk
+    100186: kid_rig_finito:shirt_msh1
+    400000: //RootNode
+    400002: kid_rig_finito:backpack_msh
+    400004: kid_rig_finito:blelly
+    400006: kid_rig_finito:blelly_0
+    400008: kid_rig_finito:blelly_dk
+    400010: kid_rig_finito:cap_msh
+    400012: kid_rig_finito:capTop_msh
+    400014: kid_rig_finito:chest
+    400016: kid_rig_finito:chest_0
+    400018: kid_rig_finito:chest_dk
+    400020: kid_rig_finito:Ctrl_g
+    400022: kid_rig_finito:end
+    400024: kid_rig_finito:hairs_msh
+    400026: kid_rig_finito:head
+    400028: kid_rig_finito:head_0
+    400030: kid_rig_finito:head_dk
+    400032: kid_rig_finito:head_msh
+    400034: kid_rig_finito:ikHandle1
+    400036: kid_rig_finito:ikHandle2
+    400038: kid_rig_finito:ikHandle3
+    400040: kid_rig_finito:ikHandle4
+    400042: kid_rig_finito:ikHandle5
+    400044: kid_rig_finito:ikHandle6
+    400046: kid_rig_finito:kid_msh_grp
+    400048: kid_rig_finito:l_ankle
+    400050: kid_rig_finito:l_ankle_ik
+    400052: kid_rig_finito:l_elbow
+    400054: kid_rig_finito:l_elbow_0
+    400056: kid_rig_finito:l_elbow_dk
+    400058: kid_rig_finito:l_foot
+    400060: kid_rig_finito:l_foot_ik
+    400062: kid_rig_finito:l_hand
+    400064: kid_rig_finito:l_hand_msh
+    400066: kid_rig_finito:l_heel_ik
+    400068: kid_rig_finito:l_hip
+    400070: kid_rig_finito:l_knee
+    400072: kid_rig_finito:l_leg_0
+    400074: kid_rig_finito:l_leg_dk
+    400076: kid_rig_finito:l_leg_msh
+    400078: kid_rig_finito:l_leg_msh1
+    400080: kid_rig_finito:l_shoe_msh
+    400082: kid_rig_finito:l_shoulder
+    400084: kid_rig_finito:l_shoulder_0
+    400086: kid_rig_finito:l_shoulder_dk
+    400088: kid_rig_finito:l_toe
+    400090: kid_rig_finito:l_toe_ik
+    400092: kid_rig_finito:l_wrist
+    400094: kid_rig_finito:l_wrist_0
+    400096: kid_rig_finito:l_wrsit_dk
+    400098: kid_rig_finito:master_ctrl
+    400100: kid_rig_finito:neck
+    400102: kid_rig_finito:neck_0
+    400104: kid_rig_finito:neck_dk
+    400106: kid_rig_finito:nurbsCircle1
+    400108: kid_rig_finito:nurbsCircle10
+    400110: kid_rig_finito:nurbsCircle11
+    400112: kid_rig_finito:nurbsCircle12
+    400114: kid_rig_finito:nurbsCircle13
+    400116: kid_rig_finito:nurbsCircle14
+    400118: kid_rig_finito:nurbsCircle2
+    400120: kid_rig_finito:nurbsCircle3
+    400122: kid_rig_finito:nurbsCircle4
+    400124: kid_rig_finito:nurbsCircle6
+    400126: kid_rig_finito:nurbsCircle7
+    400128: kid_rig_finito:nurbsCircle8
+    400130: kid_rig_finito:nurbsCircle9
+    400132: kid_rig_finito:r_ankle
+    400134: kid_rig_finito:r_ankle_ik
+    400136: kid_rig_finito:r_elbow
+    400138: kid_rig_finito:r_elbow_0
+    400140: kid_rig_finito:r_elbow_dk
+    400142: kid_rig_finito:r_foot
+    400144: kid_rig_finito:r_foot_ik
+    400146: kid_rig_finito:r_hand
+    400148: kid_rig_finito:r_hand_msh
+    400150: kid_rig_finito:r_heer_ik
+    400152: kid_rig_finito:r_hip
+    400154: kid_rig_finito:r_knee
+    400156: kid_rig_finito:r_leg_0
+    400158: kid_rig_finito:r_leg_dk
+    400160: kid_rig_finito:r_shoe_msh
+    400162: kid_rig_finito:r_shoulder
+    400164: kid_rig_finito:r_shoulder_0
+    400166: kid_rig_finito:r_shoulder_dk
+    400168: kid_rig_finito:r_toe
+    400170: kid_rig_finito:r_toe_ik
+    400172: kid_rig_finito:r_wrist
+    400174: kid_rig_finito:r_wrist_0
+    400176: kid_rig_finito:r_wrist_dk
+    400178: kid_rig_finito:Rig_G
+    400180: kid_rig_finito:root
+    400182: kid_rig_finito:root_0
+    400184: kid_rig_finito:root_dk
+    400186: kid_rig_finito:shirt_msh1
+    2300000: kid_rig_finito:backpack_msh
+    2300002: kid_rig_finito:cap_msh
+    2300004: kid_rig_finito:capTop_msh
+    2300006: kid_rig_finito:hairs_msh
+    3300000: kid_rig_finito:backpack_msh
+    3300002: kid_rig_finito:cap_msh
+    3300004: kid_rig_finito:capTop_msh
+    3300006: kid_rig_finito:hairs_msh
+    4300000: kid_rig_finito:r_hand_msh
+    4300002: kid_rig_finito:hairs_msh
+    4300004: kid_rig_finito:head_msh
+    4300006: kid_rig_finito:cap_msh
+    4300008: kid_rig_finito:capTop_msh
+    4300010: kid_rig_finito:l_leg_msh
+    4300012: kid_rig_finito:shirt_msh1
+    4300014: kid_rig_finito:l_hand_msh
+    4300016: kid_rig_finito:r_shoe_msh
+    4300018: kid_rig_finito:backpack_msh
+    4300020: kid_rig_finito:l_shoe_msh
+    4300022: kid_rig_finito:l_leg_msh1
+    7400000: Idle
+    7400002: Walk
+    7400004: Run
+    7400006: Jump
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: kid_rig_finito:head_msh
+    13700002: kid_rig_finito:l_hand_msh
+    13700004: kid_rig_finito:l_leg_msh
+    13700006: kid_rig_finito:l_leg_msh1
+    13700008: kid_rig_finito:l_shoe_msh
+    13700010: kid_rig_finito:r_hand_msh
+    13700012: kid_rig_finito:r_shoe_msh
+    13700014: kid_rig_finito:shirt_msh1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    optimizeGameObjects: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 105
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:l_leg_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:l_leg_0/kid_rig_finito:l_leg_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:l_leg_0/kid_rig_finito:l_leg_dk/kid_rig_finito:nurbsCircle11
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:r_leg_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:r_leg_0/kid_rig_finito:r_leg_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:r_leg_0/kid_rig_finito:r_leg_dk/kid_rig_finito:nurbsCircle12
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6/kid_rig_finito:l_wrist_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6/kid_rig_finito:l_wrist_0/kid_rig_finito:l_wrsit_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6/kid_rig_finito:l_wrist_0/kid_rig_finito:l_wrsit_dk/kid_rig_finito:nurbsCircle7
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3/kid_rig_finito:head_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3/kid_rig_finito:head_0/kid_rig_finito:head_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3/kid_rig_finito:head_0/kid_rig_finito:head_dk/kid_rig_finito:nurbsCircle4
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9/kid_rig_finito:r_wrist_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9/kid_rig_finito:r_wrist_0/kid_rig_finito:r_wrist_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9/kid_rig_finito:r_wrist_0/kid_rig_finito:r_wrist_dk/kid_rig_finito:nurbsCircle10
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:backpack_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:cap_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:cap_msh/kid_rig_finito:capTop_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:hairs_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:head_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_hand_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_leg_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_leg_msh1
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_shoe_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:r_hand_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:r_shoe_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:shirt_msh1
+        weight: 1
+      - path: kid_rig_finito:Rig_G
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:ikHandle6
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik/kid_rig_finito:ikHandle5
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik/kid_rig_finito:l_toe_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik/kid_rig_finito:l_toe_ik/kid_rig_finito:ikHandle4
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:ikHandle3
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik/kid_rig_finito:ikHandle2
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik/kid_rig_finito:r_toe_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik/kid_rig_finito:r_toe_ik/kid_rig_finito:ikHandle1
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder/kid_rig_finito:l_elbow
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder/kid_rig_finito:l_elbow/kid_rig_finito:l_wrist
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder/kid_rig_finito:l_elbow/kid_rig_finito:l_wrist/kid_rig_finito:l_hand
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:neck
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:neck/kid_rig_finito:head
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:neck/kid_rig_finito:head/kid_rig_finito:end
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder/kid_rig_finito:r_elbow
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder/kid_rig_finito:r_elbow/kid_rig_finito:r_wrist
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder/kid_rig_finito:r_elbow/kid_rig_finito:r_wrist/kid_rig_finito:r_hand
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee/kid_rig_finito:l_ankle
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee/kid_rig_finito:l_ankle/kid_rig_finito:l_foot
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee/kid_rig_finito:l_ankle/kid_rig_finito:l_foot/kid_rig_finito:l_toe
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee/kid_rig_finito:r_ankle
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee/kid_rig_finito:r_ankle/kid_rig_finito:r_foot
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee/kid_rig_finito:r_ankle/kid_rig_finito:r_foot/kid_rig_finito:r_toe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:l_leg_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:l_leg_0/kid_rig_finito:l_leg_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:l_leg_0/kid_rig_finito:l_leg_dk/kid_rig_finito:nurbsCircle11
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:r_leg_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:r_leg_0/kid_rig_finito:r_leg_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:r_leg_0/kid_rig_finito:r_leg_dk/kid_rig_finito:nurbsCircle12
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6/kid_rig_finito:l_wrist_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6/kid_rig_finito:l_wrist_0/kid_rig_finito:l_wrsit_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6/kid_rig_finito:l_wrist_0/kid_rig_finito:l_wrsit_dk/kid_rig_finito:nurbsCircle7
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3/kid_rig_finito:head_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3/kid_rig_finito:head_0/kid_rig_finito:head_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3/kid_rig_finito:head_0/kid_rig_finito:head_dk/kid_rig_finito:nurbsCircle4
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9/kid_rig_finito:r_wrist_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9/kid_rig_finito:r_wrist_0/kid_rig_finito:r_wrist_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9/kid_rig_finito:r_wrist_0/kid_rig_finito:r_wrist_dk/kid_rig_finito:nurbsCircle10
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:backpack_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:cap_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:cap_msh/kid_rig_finito:capTop_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:hairs_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:head_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_hand_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_leg_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_leg_msh1
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_shoe_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:r_hand_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:r_shoe_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:shirt_msh1
+        weight: 1
+      - path: kid_rig_finito:Rig_G
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:ikHandle6
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik/kid_rig_finito:ikHandle5
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik/kid_rig_finito:l_toe_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik/kid_rig_finito:l_toe_ik/kid_rig_finito:ikHandle4
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:ikHandle3
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik/kid_rig_finito:ikHandle2
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik/kid_rig_finito:r_toe_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik/kid_rig_finito:r_toe_ik/kid_rig_finito:ikHandle1
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder/kid_rig_finito:l_elbow
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder/kid_rig_finito:l_elbow/kid_rig_finito:l_wrist
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder/kid_rig_finito:l_elbow/kid_rig_finito:l_wrist/kid_rig_finito:l_hand
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:neck
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:neck/kid_rig_finito:head
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:neck/kid_rig_finito:head/kid_rig_finito:end
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder/kid_rig_finito:r_elbow
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder/kid_rig_finito:r_elbow/kid_rig_finito:r_wrist
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder/kid_rig_finito:r_elbow/kid_rig_finito:r_wrist/kid_rig_finito:r_hand
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee/kid_rig_finito:l_ankle
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee/kid_rig_finito:l_ankle/kid_rig_finito:l_foot
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee/kid_rig_finito:l_ankle/kid_rig_finito:l_foot/kid_rig_finito:l_toe
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee/kid_rig_finito:r_ankle
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee/kid_rig_finito:r_ankle/kid_rig_finito:r_foot
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee/kid_rig_finito:r_ankle/kid_rig_finito:r_foot/kid_rig_finito:r_toe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 39
+      lastFrame: 57
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:l_leg_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:l_leg_0/kid_rig_finito:l_leg_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:l_leg_0/kid_rig_finito:l_leg_dk/kid_rig_finito:nurbsCircle11
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:r_leg_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:r_leg_0/kid_rig_finito:r_leg_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:r_leg_0/kid_rig_finito:r_leg_dk/kid_rig_finito:nurbsCircle12
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6/kid_rig_finito:l_wrist_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6/kid_rig_finito:l_wrist_0/kid_rig_finito:l_wrsit_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6/kid_rig_finito:l_wrist_0/kid_rig_finito:l_wrsit_dk/kid_rig_finito:nurbsCircle7
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3/kid_rig_finito:head_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3/kid_rig_finito:head_0/kid_rig_finito:head_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3/kid_rig_finito:head_0/kid_rig_finito:head_dk/kid_rig_finito:nurbsCircle4
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9/kid_rig_finito:r_wrist_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9/kid_rig_finito:r_wrist_0/kid_rig_finito:r_wrist_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9/kid_rig_finito:r_wrist_0/kid_rig_finito:r_wrist_dk/kid_rig_finito:nurbsCircle10
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:backpack_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:cap_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:cap_msh/kid_rig_finito:capTop_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:hairs_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:head_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_hand_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_leg_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_leg_msh1
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_shoe_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:r_hand_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:r_shoe_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:shirt_msh1
+        weight: 1
+      - path: kid_rig_finito:Rig_G
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:ikHandle6
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik/kid_rig_finito:ikHandle5
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik/kid_rig_finito:l_toe_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik/kid_rig_finito:l_toe_ik/kid_rig_finito:ikHandle4
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:ikHandle3
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik/kid_rig_finito:ikHandle2
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik/kid_rig_finito:r_toe_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik/kid_rig_finito:r_toe_ik/kid_rig_finito:ikHandle1
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder/kid_rig_finito:l_elbow
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder/kid_rig_finito:l_elbow/kid_rig_finito:l_wrist
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder/kid_rig_finito:l_elbow/kid_rig_finito:l_wrist/kid_rig_finito:l_hand
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:neck
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:neck/kid_rig_finito:head
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:neck/kid_rig_finito:head/kid_rig_finito:end
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder/kid_rig_finito:r_elbow
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder/kid_rig_finito:r_elbow/kid_rig_finito:r_wrist
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder/kid_rig_finito:r_elbow/kid_rig_finito:r_wrist/kid_rig_finito:r_hand
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee/kid_rig_finito:l_ankle
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee/kid_rig_finito:l_ankle/kid_rig_finito:l_foot
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee/kid_rig_finito:l_ankle/kid_rig_finito:l_foot/kid_rig_finito:l_toe
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee/kid_rig_finito:r_ankle
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee/kid_rig_finito:r_ankle/kid_rig_finito:r_foot
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee/kid_rig_finito:r_ankle/kid_rig_finito:r_foot/kid_rig_finito:r_toe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 26
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:l_leg_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:l_leg_0/kid_rig_finito:l_leg_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:l_leg_0/kid_rig_finito:l_leg_dk/kid_rig_finito:nurbsCircle11
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:r_leg_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:r_leg_0/kid_rig_finito:r_leg_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:r_leg_0/kid_rig_finito:r_leg_dk/kid_rig_finito:nurbsCircle12
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6/kid_rig_finito:l_wrist_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6/kid_rig_finito:l_wrist_0/kid_rig_finito:l_wrsit_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:l_shoulder_0/kid_rig_finito:l_shoulder_dk/kid_rig_finito:nurbsCircle14/kid_rig_finito:l_elbow_0/kid_rig_finito:l_elbow_dk/kid_rig_finito:nurbsCircle6/kid_rig_finito:l_wrist_0/kid_rig_finito:l_wrsit_dk/kid_rig_finito:nurbsCircle7
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3/kid_rig_finito:head_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3/kid_rig_finito:head_0/kid_rig_finito:head_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:neck_0/kid_rig_finito:neck_dk/kid_rig_finito:nurbsCircle3/kid_rig_finito:head_0/kid_rig_finito:head_dk/kid_rig_finito:nurbsCircle4
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9/kid_rig_finito:r_wrist_0
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9/kid_rig_finito:r_wrist_0/kid_rig_finito:r_wrist_dk
+        weight: 1
+      - path: kid_rig_finito:Ctrl_g/kid_rig_finito:master_ctrl/kid_rig_finito:root_0/kid_rig_finito:root_dk/kid_rig_finito:nurbsCircle13/kid_rig_finito:blelly_0/kid_rig_finito:blelly_dk/kid_rig_finito:nurbsCircle1/kid_rig_finito:chest_0/kid_rig_finito:chest_dk/kid_rig_finito:nurbsCircle2/kid_rig_finito:r_shoulder_0/kid_rig_finito:r_shoulder_dk/kid_rig_finito:nurbsCircle8/kid_rig_finito:r_elbow_0/kid_rig_finito:r_elbow_dk/kid_rig_finito:nurbsCircle9/kid_rig_finito:r_wrist_0/kid_rig_finito:r_wrist_dk/kid_rig_finito:nurbsCircle10
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:backpack_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:cap_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:cap_msh/kid_rig_finito:capTop_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:hairs_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:head_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_hand_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_leg_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_leg_msh1
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:l_shoe_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:r_hand_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:r_shoe_msh
+        weight: 1
+      - path: kid_rig_finito:kid_msh_grp/kid_rig_finito:shirt_msh1
+        weight: 1
+      - path: kid_rig_finito:Rig_G
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:ikHandle6
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik/kid_rig_finito:ikHandle5
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik/kid_rig_finito:l_toe_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:l_heel_ik/kid_rig_finito:l_ankle_ik/kid_rig_finito:l_foot_ik/kid_rig_finito:l_toe_ik/kid_rig_finito:ikHandle4
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:ikHandle3
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik/kid_rig_finito:ikHandle2
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik/kid_rig_finito:r_toe_ik
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:r_heer_ik/kid_rig_finito:r_ankle_ik/kid_rig_finito:r_foot_ik/kid_rig_finito:r_toe_ik/kid_rig_finito:ikHandle1
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder/kid_rig_finito:l_elbow
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder/kid_rig_finito:l_elbow/kid_rig_finito:l_wrist
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:l_shoulder/kid_rig_finito:l_elbow/kid_rig_finito:l_wrist/kid_rig_finito:l_hand
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:neck
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:neck/kid_rig_finito:head
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:neck/kid_rig_finito:head/kid_rig_finito:end
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder/kid_rig_finito:r_elbow
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder/kid_rig_finito:r_elbow/kid_rig_finito:r_wrist
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:blelly/kid_rig_finito:chest/kid_rig_finito:r_shoulder/kid_rig_finito:r_elbow/kid_rig_finito:r_wrist/kid_rig_finito:r_hand
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee/kid_rig_finito:l_ankle
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee/kid_rig_finito:l_ankle/kid_rig_finito:l_foot
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:l_hip/kid_rig_finito:l_knee/kid_rig_finito:l_ankle/kid_rig_finito:l_foot/kid_rig_finito:l_toe
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee/kid_rig_finito:r_ankle
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee/kid_rig_finito:r_ankle/kid_rig_finito:r_foot
+        weight: 1
+      - path: kid_rig_finito:Rig_G/kid_rig_finito:root/kid_rig_finito:r_hip/kid_rig_finito:r_knee/kid_rig_finito:r_ankle/kid_rig_finito:r_foot/kid_rig_finito:r_toe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: d0ea0383b702368459204ad5bcb66583
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: stone4:grass
+    100002: stone4:grass1
+    100004: stone4:grass10
+    100006: stone4:grass11
+    100008: stone4:grass2
+    100010: stone4:grass3
+    100012: stone4:grass4
+    100014: stone4:grass5
+    100016: stone4:grass6
+    100018: stone4:grass7
+    100020: stone4:grass8
+    100022: stone4:grass9
+    100024: stone4:grp_grass
+    100026: stone4:nurbsCube1
+    100028: stone4:post
+    100030: stone4:postStaff
+    100032: stone4:pPlane1
+    100034: stone4:pPlane1 1
+    100036: stone4:pPlane1 10
+    100038: stone4:pPlane1 11
+    100040: stone4:pPlane1 2
+    100042: stone4:pPlane1 3
+    100044: stone4:pPlane1 4
+    100046: stone4:pPlane1 5
+    100048: stone4:pPlane1 6
+    100050: stone4:pPlane1 7
+    100052: stone4:pPlane1 8
+    100054: stone4:pPlane1 9
+    100056: stone4:pPlane10
+    100058: stone4:pPlane10 1
+    100060: stone4:pPlane10 10
+    100062: stone4:pPlane10 11
+    100064: stone4:pPlane10 2
+    100066: stone4:pPlane10 3
+    100068: stone4:pPlane10 4
+    100070: stone4:pPlane10 5
+    100072: stone4:pPlane10 6
+    100074: stone4:pPlane10 7
+    100076: stone4:pPlane10 8
+    100078: stone4:pPlane10 9
+    100080: stone4:pPlane11
+    100082: stone4:pPlane12
+    100084: stone4:pPlane13
+    100086: stone4:pPlane2
+    100088: stone4:pPlane2 1
+    100090: stone4:pPlane2 10
+    100092: stone4:pPlane2 11
+    100094: stone4:pPlane2 2
+    100096: stone4:pPlane2 3
+    100098: stone4:pPlane2 4
+    100100: stone4:pPlane2 5
+    100102: stone4:pPlane2 6
+    100104: stone4:pPlane2 7
+    100106: stone4:pPlane2 8
+    100108: stone4:pPlane2 9
+    100110: stone4:pPlane3
+    100112: stone4:pPlane3 1
+    100114: stone4:pPlane3 10
+    100116: stone4:pPlane3 11
+    100118: stone4:pPlane3 2
+    100120: stone4:pPlane3 3
+    100122: stone4:pPlane3 4
+    100124: stone4:pPlane3 5
+    100126: stone4:pPlane3 6
+    100128: stone4:pPlane3 7
+    100130: stone4:pPlane3 8
+    100132: stone4:pPlane3 9
+    100134: stone4:pPlane4
+    100136: stone4:pPlane4 1
+    100138: stone4:pPlane4 10
+    100140: stone4:pPlane4 11
+    100142: stone4:pPlane4 2
+    100144: stone4:pPlane4 3
+    100146: stone4:pPlane4 4
+    100148: stone4:pPlane4 5
+    100150: stone4:pPlane4 6
+    100152: stone4:pPlane4 7
+    100154: stone4:pPlane4 8
+    100156: stone4:pPlane4 9
+    100158: stone4:pPlane5
+    100160: stone4:pPlane5 1
+    100162: stone4:pPlane5 10
+    100164: stone4:pPlane5 11
+    100166: stone4:pPlane5 2
+    100168: stone4:pPlane5 3
+    100170: stone4:pPlane5 4
+    100172: stone4:pPlane5 5
+    100174: stone4:pPlane5 6
+    100176: stone4:pPlane5 7
+    100178: stone4:pPlane5 8
+    100180: stone4:pPlane5 9
+    100182: stone4:pPlane6
+    100184: stone4:pPlane6 1
+    100186: stone4:pPlane6 10
+    100188: stone4:pPlane6 11
+    100190: stone4:pPlane6 2
+    100192: stone4:pPlane6 3
+    100194: stone4:pPlane6 4
+    100196: stone4:pPlane6 5
+    100198: stone4:pPlane6 6
+    100200: stone4:pPlane6 7
+    100202: stone4:pPlane6 8
+    100204: stone4:pPlane6 9
+    100206: stone4:pPlane7
+    100208: stone4:pPlane7 1
+    100210: stone4:pPlane7 10
+    100212: stone4:pPlane7 11
+    100214: stone4:pPlane7 2
+    100216: stone4:pPlane7 3
+    100218: stone4:pPlane7 4
+    100220: stone4:pPlane7 5
+    100222: stone4:pPlane7 6
+    100224: stone4:pPlane7 7
+    100226: stone4:pPlane7 8
+    100228: stone4:pPlane7 9
+    100230: stone4:pPlane8
+    100232: stone4:pPlane8 1
+    100234: stone4:pPlane8 10
+    100236: stone4:pPlane8 11
+    100238: stone4:pPlane8 2
+    100240: stone4:pPlane8 3
+    100242: stone4:pPlane8 4
+    100244: stone4:pPlane8 5
+    100246: stone4:pPlane8 6
+    100248: stone4:pPlane8 7
+    100250: stone4:pPlane8 8
+    100252: stone4:pPlane8 9
+    100254: stone4:pPlane9
+    100256: stone4:pPlane9 1
+    100258: stone4:pPlane9 10
+    100260: stone4:pPlane9 11
+    100262: stone4:pPlane9 2
+    100264: stone4:pPlane9 3
+    100266: stone4:pPlane9 4
+    100268: stone4:pPlane9 5
+    100270: stone4:pPlane9 6
+    100272: stone4:pPlane9 7
+    100274: stone4:pPlane9 8
+    100276: stone4:pPlane9 9
+    100278: stone4:stone01
+    100280: stone4:stone02
+    100282: stone4:stone03
+    100284: //RootNode
+    400000: stone4:grass
+    400002: stone4:grass1
+    400004: stone4:grass10
+    400006: stone4:grass11
+    400008: stone4:grass2
+    400010: stone4:grass3
+    400012: stone4:grass4
+    400014: stone4:grass5
+    400016: stone4:grass6
+    400018: stone4:grass7
+    400020: stone4:grass8
+    400022: stone4:grass9
+    400024: stone4:grp_grass
+    400026: stone4:nurbsCube1
+    400028: stone4:post
+    400030: stone4:postStaff
+    400032: stone4:pPlane1
+    400034: stone4:pPlane1 1
+    400036: stone4:pPlane1 10
+    400038: stone4:pPlane1 11
+    400040: stone4:pPlane1 2
+    400042: stone4:pPlane1 3
+    400044: stone4:pPlane1 4
+    400046: stone4:pPlane1 5
+    400048: stone4:pPlane1 6
+    400050: stone4:pPlane1 7
+    400052: stone4:pPlane1 8
+    400054: stone4:pPlane1 9
+    400056: stone4:pPlane10
+    400058: stone4:pPlane10 1
+    400060: stone4:pPlane10 10
+    400062: stone4:pPlane10 11
+    400064: stone4:pPlane10 2
+    400066: stone4:pPlane10 3
+    400068: stone4:pPlane10 4
+    400070: stone4:pPlane10 5
+    400072: stone4:pPlane10 6
+    400074: stone4:pPlane10 7
+    400076: stone4:pPlane10 8
+    400078: stone4:pPlane10 9
+    400080: stone4:pPlane11
+    400082: stone4:pPlane12
+    400084: stone4:pPlane13
+    400086: stone4:pPlane2
+    400088: stone4:pPlane2 1
+    400090: stone4:pPlane2 10
+    400092: stone4:pPlane2 11
+    400094: stone4:pPlane2 2
+    400096: stone4:pPlane2 3
+    400098: stone4:pPlane2 4
+    400100: stone4:pPlane2 5
+    400102: stone4:pPlane2 6
+    400104: stone4:pPlane2 7
+    400106: stone4:pPlane2 8
+    400108: stone4:pPlane2 9
+    400110: stone4:pPlane3
+    400112: stone4:pPlane3 1
+    400114: stone4:pPlane3 10
+    400116: stone4:pPlane3 11
+    400118: stone4:pPlane3 2
+    400120: stone4:pPlane3 3
+    400122: stone4:pPlane3 4
+    400124: stone4:pPlane3 5
+    400126: stone4:pPlane3 6
+    400128: stone4:pPlane3 7
+    400130: stone4:pPlane3 8
+    400132: stone4:pPlane3 9
+    400134: stone4:pPlane4
+    400136: stone4:pPlane4 1
+    400138: stone4:pPlane4 10
+    400140: stone4:pPlane4 11
+    400142: stone4:pPlane4 2
+    400144: stone4:pPlane4 3
+    400146: stone4:pPlane4 4
+    400148: stone4:pPlane4 5
+    400150: stone4:pPlane4 6
+    400152: stone4:pPlane4 7
+    400154: stone4:pPlane4 8
+    400156: stone4:pPlane4 9
+    400158: stone4:pPlane5
+    400160: stone4:pPlane5 1
+    400162: stone4:pPlane5 10
+    400164: stone4:pPlane5 11
+    400166: stone4:pPlane5 2
+    400168: stone4:pPlane5 3
+    400170: stone4:pPlane5 4
+    400172: stone4:pPlane5 5
+    400174: stone4:pPlane5 6
+    400176: stone4:pPlane5 7
+    400178: stone4:pPlane5 8
+    400180: stone4:pPlane5 9
+    400182: stone4:pPlane6
+    400184: stone4:pPlane6 1
+    400186: stone4:pPlane6 10
+    400188: stone4:pPlane6 11
+    400190: stone4:pPlane6 2
+    400192: stone4:pPlane6 3
+    400194: stone4:pPlane6 4
+    400196: stone4:pPlane6 5
+    400198: stone4:pPlane6 6
+    400200: stone4:pPlane6 7
+    400202: stone4:pPlane6 8
+    400204: stone4:pPlane6 9
+    400206: stone4:pPlane7
+    400208: stone4:pPlane7 1
+    400210: stone4:pPlane7 10
+    400212: stone4:pPlane7 11
+    400214: stone4:pPlane7 2
+    400216: stone4:pPlane7 3
+    400218: stone4:pPlane7 4
+    400220: stone4:pPlane7 5
+    400222: stone4:pPlane7 6
+    400224: stone4:pPlane7 7
+    400226: stone4:pPlane7 8
+    400228: stone4:pPlane7 9
+    400230: stone4:pPlane8
+    400232: stone4:pPlane8 1
+    400234: stone4:pPlane8 10
+    400236: stone4:pPlane8 11
+    400238: stone4:pPlane8 2
+    400240: stone4:pPlane8 3
+    400242: stone4:pPlane8 4
+    400244: stone4:pPlane8 5
+    400246: stone4:pPlane8 6
+    400248: stone4:pPlane8 7
+    400250: stone4:pPlane8 8
+    400252: stone4:pPlane8 9
+    400254: stone4:pPlane9
+    400256: stone4:pPlane9 1
+    400258: stone4:pPlane9 10
+    400260: stone4:pPlane9 11
+    400262: stone4:pPlane9 2
+    400264: stone4:pPlane9 3
+    400266: stone4:pPlane9 4
+    400268: stone4:pPlane9 5
+    400270: stone4:pPlane9 6
+    400272: stone4:pPlane9 7
+    400274: stone4:pPlane9 8
+    400276: stone4:pPlane9 9
+    400278: stone4:stone01
+    400280: stone4:stone02
+    400282: stone4:stone03
+    400284: //RootNode
+    2300000: stone4:post
+    2300002: stone4:postStaff
+    2300004: stone4:pPlane1
+    2300006: stone4:pPlane1 1
+    2300008: stone4:pPlane1 10
+    2300010: stone4:pPlane1 11
+    2300012: stone4:pPlane1 2
+    2300014: stone4:pPlane1 3
+    2300016: stone4:pPlane1 4
+    2300018: stone4:pPlane1 5
+    2300020: stone4:pPlane1 6
+    2300022: stone4:pPlane1 7
+    2300024: stone4:pPlane1 8
+    2300026: stone4:pPlane1 9
+    2300028: stone4:pPlane10
+    2300030: stone4:pPlane10 1
+    2300032: stone4:pPlane10 10
+    2300034: stone4:pPlane10 11
+    2300036: stone4:pPlane10 2
+    2300038: stone4:pPlane10 3
+    2300040: stone4:pPlane10 4
+    2300042: stone4:pPlane10 5
+    2300044: stone4:pPlane10 6
+    2300046: stone4:pPlane10 7
+    2300048: stone4:pPlane10 8
+    2300050: stone4:pPlane10 9
+    2300052: stone4:pPlane11
+    2300054: stone4:pPlane12
+    2300056: stone4:pPlane13
+    2300058: stone4:pPlane2
+    2300060: stone4:pPlane2 1
+    2300062: stone4:pPlane2 10
+    2300064: stone4:pPlane2 11
+    2300066: stone4:pPlane2 2
+    2300068: stone4:pPlane2 3
+    2300070: stone4:pPlane2 4
+    2300072: stone4:pPlane2 5
+    2300074: stone4:pPlane2 6
+    2300076: stone4:pPlane2 7
+    2300078: stone4:pPlane2 8
+    2300080: stone4:pPlane2 9
+    2300082: stone4:pPlane3
+    2300084: stone4:pPlane3 1
+    2300086: stone4:pPlane3 10
+    2300088: stone4:pPlane3 11
+    2300090: stone4:pPlane3 2
+    2300092: stone4:pPlane3 3
+    2300094: stone4:pPlane3 4
+    2300096: stone4:pPlane3 5
+    2300098: stone4:pPlane3 6
+    2300100: stone4:pPlane3 7
+    2300102: stone4:pPlane3 8
+    2300104: stone4:pPlane3 9
+    2300106: stone4:pPlane4
+    2300108: stone4:pPlane4 1
+    2300110: stone4:pPlane4 10
+    2300112: stone4:pPlane4 11
+    2300114: stone4:pPlane4 2
+    2300116: stone4:pPlane4 3
+    2300118: stone4:pPlane4 4
+    2300120: stone4:pPlane4 5
+    2300122: stone4:pPlane4 6
+    2300124: stone4:pPlane4 7
+    2300126: stone4:pPlane4 8
+    2300128: stone4:pPlane4 9
+    2300130: stone4:pPlane5
+    2300132: stone4:pPlane5 1
+    2300134: stone4:pPlane5 10
+    2300136: stone4:pPlane5 11
+    2300138: stone4:pPlane5 2
+    2300140: stone4:pPlane5 3
+    2300142: stone4:pPlane5 4
+    2300144: stone4:pPlane5 5
+    2300146: stone4:pPlane5 6
+    2300148: stone4:pPlane5 7
+    2300150: stone4:pPlane5 8
+    2300152: stone4:pPlane5 9
+    2300154: stone4:pPlane6
+    2300156: stone4:pPlane6 1
+    2300158: stone4:pPlane6 10
+    2300160: stone4:pPlane6 11
+    2300162: stone4:pPlane6 2
+    2300164: stone4:pPlane6 3
+    2300166: stone4:pPlane6 4
+    2300168: stone4:pPlane6 5
+    2300170: stone4:pPlane6 6
+    2300172: stone4:pPlane6 7
+    2300174: stone4:pPlane6 8
+    2300176: stone4:pPlane6 9
+    2300178: stone4:pPlane7
+    2300180: stone4:pPlane7 1
+    2300182: stone4:pPlane7 10
+    2300184: stone4:pPlane7 11
+    2300186: stone4:pPlane7 2
+    2300188: stone4:pPlane7 3
+    2300190: stone4:pPlane7 4
+    2300192: stone4:pPlane7 5
+    2300194: stone4:pPlane7 6
+    2300196: stone4:pPlane7 7
+    2300198: stone4:pPlane7 8
+    2300200: stone4:pPlane7 9
+    2300202: stone4:pPlane8
+    2300204: stone4:pPlane8 1
+    2300206: stone4:pPlane8 10
+    2300208: stone4:pPlane8 11
+    2300210: stone4:pPlane8 2
+    2300212: stone4:pPlane8 3
+    2300214: stone4:pPlane8 4
+    2300216: stone4:pPlane8 5
+    2300218: stone4:pPlane8 6
+    2300220: stone4:pPlane8 7
+    2300222: stone4:pPlane8 8
+    2300224: stone4:pPlane8 9
+    2300226: stone4:pPlane9
+    2300228: stone4:pPlane9 1
+    2300230: stone4:pPlane9 10
+    2300232: stone4:pPlane9 11
+    2300234: stone4:pPlane9 2
+    2300236: stone4:pPlane9 3
+    2300238: stone4:pPlane9 4
+    2300240: stone4:pPlane9 5
+    2300242: stone4:pPlane9 6
+    2300244: stone4:pPlane9 7
+    2300246: stone4:pPlane9 8
+    2300248: stone4:pPlane9 9
+    2300250: stone4:stone01
+    2300252: stone4:stone02
+    2300254: stone4:stone03
+    3300000: stone4:post
+    3300002: stone4:postStaff
+    3300004: stone4:pPlane1
+    3300006: stone4:pPlane1 1
+    3300008: stone4:pPlane1 10
+    3300010: stone4:pPlane1 11
+    3300012: stone4:pPlane1 2
+    3300014: stone4:pPlane1 3
+    3300016: stone4:pPlane1 4
+    3300018: stone4:pPlane1 5
+    3300020: stone4:pPlane1 6
+    3300022: stone4:pPlane1 7
+    3300024: stone4:pPlane1 8
+    3300026: stone4:pPlane1 9
+    3300028: stone4:pPlane10
+    3300030: stone4:pPlane10 1
+    3300032: stone4:pPlane10 10
+    3300034: stone4:pPlane10 11
+    3300036: stone4:pPlane10 2
+    3300038: stone4:pPlane10 3
+    3300040: stone4:pPlane10 4
+    3300042: stone4:pPlane10 5
+    3300044: stone4:pPlane10 6
+    3300046: stone4:pPlane10 7
+    3300048: stone4:pPlane10 8
+    3300050: stone4:pPlane10 9
+    3300052: stone4:pPlane11
+    3300054: stone4:pPlane12
+    3300056: stone4:pPlane13
+    3300058: stone4:pPlane2
+    3300060: stone4:pPlane2 1
+    3300062: stone4:pPlane2 10
+    3300064: stone4:pPlane2 11
+    3300066: stone4:pPlane2 2
+    3300068: stone4:pPlane2 3
+    3300070: stone4:pPlane2 4
+    3300072: stone4:pPlane2 5
+    3300074: stone4:pPlane2 6
+    3300076: stone4:pPlane2 7
+    3300078: stone4:pPlane2 8
+    3300080: stone4:pPlane2 9
+    3300082: stone4:pPlane3
+    3300084: stone4:pPlane3 1
+    3300086: stone4:pPlane3 10
+    3300088: stone4:pPlane3 11
+    3300090: stone4:pPlane3 2
+    3300092: stone4:pPlane3 3
+    3300094: stone4:pPlane3 4
+    3300096: stone4:pPlane3 5
+    3300098: stone4:pPlane3 6
+    3300100: stone4:pPlane3 7
+    3300102: stone4:pPlane3 8
+    3300104: stone4:pPlane3 9
+    3300106: stone4:pPlane4
+    3300108: stone4:pPlane4 1
+    3300110: stone4:pPlane4 10
+    3300112: stone4:pPlane4 11
+    3300114: stone4:pPlane4 2
+    3300116: stone4:pPlane4 3
+    3300118: stone4:pPlane4 4
+    3300120: stone4:pPlane4 5
+    3300122: stone4:pPlane4 6
+    3300124: stone4:pPlane4 7
+    3300126: stone4:pPlane4 8
+    3300128: stone4:pPlane4 9
+    3300130: stone4:pPlane5
+    3300132: stone4:pPlane5 1
+    3300134: stone4:pPlane5 10
+    3300136: stone4:pPlane5 11
+    3300138: stone4:pPlane5 2
+    3300140: stone4:pPlane5 3
+    3300142: stone4:pPlane5 4
+    3300144: stone4:pPlane5 5
+    3300146: stone4:pPlane5 6
+    3300148: stone4:pPlane5 7
+    3300150: stone4:pPlane5 8
+    3300152: stone4:pPlane5 9
+    3300154: stone4:pPlane6
+    3300156: stone4:pPlane6 1
+    3300158: stone4:pPlane6 10
+    3300160: stone4:pPlane6 11
+    3300162: stone4:pPlane6 2
+    3300164: stone4:pPlane6 3
+    3300166: stone4:pPlane6 4
+    3300168: stone4:pPlane6 5
+    3300170: stone4:pPlane6 6
+    3300172: stone4:pPlane6 7
+    3300174: stone4:pPlane6 8
+    3300176: stone4:pPlane6 9
+    3300178: stone4:pPlane7
+    3300180: stone4:pPlane7 1
+    3300182: stone4:pPlane7 10
+    3300184: stone4:pPlane7 11
+    3300186: stone4:pPlane7 2
+    3300188: stone4:pPlane7 3
+    3300190: stone4:pPlane7 4
+    3300192: stone4:pPlane7 5
+    3300194: stone4:pPlane7 6
+    3300196: stone4:pPlane7 7
+    3300198: stone4:pPlane7 8
+    3300200: stone4:pPlane7 9
+    3300202: stone4:pPlane8
+    3300204: stone4:pPlane8 1
+    3300206: stone4:pPlane8 10
+    3300208: stone4:pPlane8 11
+    3300210: stone4:pPlane8 2
+    3300212: stone4:pPlane8 3
+    3300214: stone4:pPlane8 4
+    3300216: stone4:pPlane8 5
+    3300218: stone4:pPlane8 6
+    3300220: stone4:pPlane8 7
+    3300222: stone4:pPlane8 8
+    3300224: stone4:pPlane8 9
+    3300226: stone4:pPlane9
+    3300228: stone4:pPlane9 1
+    3300230: stone4:pPlane9 10
+    3300232: stone4:pPlane9 11
+    3300234: stone4:pPlane9 2
+    3300236: stone4:pPlane9 3
+    3300238: stone4:pPlane9 4
+    3300240: stone4:pPlane9 5
+    3300242: stone4:pPlane9 6
+    3300244: stone4:pPlane9 7
+    3300246: stone4:pPlane9 8
+    3300248: stone4:pPlane9 9
+    3300250: stone4:stone01
+    3300252: stone4:stone02
+    3300254: stone4:stone03
+    4300000: stone4:stone01
+    4300002: stone4:post
+    4300004: stone4:postStaff
+    4300006: stone4:stone02
+    4300008: stone4:stone03
+    4300010: stone4:pPlane1
+    4300012: stone4:pPlane2
+    4300014: stone4:pPlane3
+    4300016: stone4:pPlane4
+    4300018: stone4:pPlane5
+    4300020: stone4:pPlane6
+    4300022: stone4:pPlane7
+    4300024: stone4:pPlane8
+    4300026: stone4:pPlane9
+    4300028: stone4:pPlane10
+    4300030: stone4:pPlane1
+    4300032: stone4:pPlane2
+    4300034: stone4:pPlane3
+    4300036: stone4:pPlane4
+    4300038: stone4:pPlane5
+    4300040: stone4:pPlane6
+    4300042: stone4:pPlane7
+    4300044: stone4:pPlane8
+    4300046: stone4:pPlane9
+    4300048: stone4:pPlane10
+    4300050: stone4:pPlane1
+    4300052: stone4:pPlane2
+    4300054: stone4:pPlane3
+    4300056: stone4:pPlane4
+    4300058: stone4:pPlane5
+    4300060: stone4:pPlane6
+    4300062: stone4:pPlane7
+    4300064: stone4:pPlane8
+    4300066: stone4:pPlane9
+    4300068: stone4:pPlane10
+    4300070: stone4:pPlane1
+    4300072: stone4:pPlane2
+    4300074: stone4:pPlane3
+    4300076: stone4:pPlane4
+    4300078: stone4:pPlane5
+    4300080: stone4:pPlane6
+    4300082: stone4:pPlane7
+    4300084: stone4:pPlane8
+    4300086: stone4:pPlane9
+    4300088: stone4:pPlane10
+    4300090: stone4:pPlane1
+    4300092: stone4:pPlane2
+    4300094: stone4:pPlane3
+    4300096: stone4:pPlane4
+    4300098: stone4:pPlane5
+    4300100: stone4:pPlane6
+    4300102: stone4:pPlane7
+    4300104: stone4:pPlane8
+    4300106: stone4:pPlane9
+    4300108: stone4:pPlane10
+    4300110: stone4:pPlane1
+    4300112: stone4:pPlane2
+    4300114: stone4:pPlane3
+    4300116: stone4:pPlane4
+    4300118: stone4:pPlane5
+    4300120: stone4:pPlane6
+    4300122: stone4:pPlane7
+    4300124: stone4:pPlane8
+    4300126: stone4:pPlane9
+    4300128: stone4:pPlane10
+    4300130: stone4:pPlane1
+    4300132: stone4:pPlane2
+    4300134: stone4:pPlane3
+    4300136: stone4:pPlane4
+    4300138: stone4:pPlane5
+    4300140: stone4:pPlane6
+    4300142: stone4:pPlane7
+    4300144: stone4:pPlane8
+    4300146: stone4:pPlane9
+    4300148: stone4:pPlane10
+    4300150: stone4:pPlane1
+    4300152: stone4:pPlane2
+    4300154: stone4:pPlane3
+    4300156: stone4:pPlane4
+    4300158: stone4:pPlane5
+    4300160: stone4:pPlane6
+    4300162: stone4:pPlane7
+    4300164: stone4:pPlane8
+    4300166: stone4:pPlane9
+    4300168: stone4:pPlane10
+    4300170: stone4:pPlane1
+    4300172: stone4:pPlane2
+    4300174: stone4:pPlane3
+    4300176: stone4:pPlane4
+    4300178: stone4:pPlane5
+    4300180: stone4:pPlane6
+    4300182: stone4:pPlane7
+    4300184: stone4:pPlane8
+    4300186: stone4:pPlane9
+    4300188: stone4:pPlane10
+    4300190: stone4:pPlane1
+    4300192: stone4:pPlane2
+    4300194: stone4:pPlane3
+    4300196: stone4:pPlane4
+    4300198: stone4:pPlane5
+    4300200: stone4:pPlane6
+    4300202: stone4:pPlane7
+    4300204: stone4:pPlane8
+    4300206: stone4:pPlane9
+    4300208: stone4:pPlane10
+    4300210: stone4:pPlane1
+    4300212: stone4:pPlane2
+    4300214: stone4:pPlane3
+    4300216: stone4:pPlane4
+    4300218: stone4:pPlane5
+    4300220: stone4:pPlane6
+    4300222: stone4:pPlane7
+    4300224: stone4:pPlane8
+    4300226: stone4:pPlane9
+    4300228: stone4:pPlane10
+    4300230: stone4:pPlane1
+    4300232: stone4:pPlane2
+    4300234: stone4:pPlane3
+    4300236: stone4:pPlane4
+    4300238: stone4:pPlane5
+    4300240: stone4:pPlane6
+    4300242: stone4:pPlane7
+    4300244: stone4:pPlane8
+    4300246: stone4:pPlane9
+    4300248: stone4:pPlane10
+    4300250: stone4:pPlane11
+    4300252: stone4:pPlane12
+    4300254: stone4:pPlane13
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
