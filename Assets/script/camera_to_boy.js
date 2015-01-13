@@ -2,7 +2,8 @@
 private var position_x : float;
 private var position_y : float;
 private var camera_mov : camera_movement;
-// trascinare personaggio
+
+// character
 var target : Transform;
 var end : boolean;
 
@@ -23,10 +24,10 @@ function Start () {
 function Update () {
 
 	if (transform.position.y >= position_y-1.6){
-		// Primo passo, abbassa
+		// first step, go down
 		transform.Translate(Vector3.down *0.1);
 	}else{
-		// Secondo passo, si avvicina
+		// second step, approach
 		if (transform.position.x <= (position_x+4)) {
 		    transform.Translate(Vector3.forward *0.1);
 		    camera.fieldOfView = 46;

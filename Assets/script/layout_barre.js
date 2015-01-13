@@ -18,7 +18,6 @@ function Bordo(){
 	if (guiTexture.pixelInset.width >100){
 		guiTexture.border = RectOffset (0, 0, 0, 0);
 	}else{
-	
 		border = guiTexture.pixelInset.width/2;
 		guiTexture.border = RectOffset (border, border, 0, 0);
 	}

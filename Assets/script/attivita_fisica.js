@@ -10,13 +10,10 @@ var att_position_x : float;
 
 var fatta =0;
 
-// percentuali di alimenti da togliere
+// food percentage decrease
 private var food_decr = new float[4];
 
-// numero massimo tentativi
-//private var max_attempts = 4;
-
-// percentuale prestazioni da aggiungere
+// performance increase
 private var perf_increase = 30;
 
 private var step = 0;
@@ -51,7 +48,7 @@ function Update () {
 	}
 }
 
-// funzione chiamata dall'oggetto 'tasto attività', è quella che fa partire tutto
+// call by 'tasto attivita' object
 function start_activity () {				
 		activity = !activity;		
 		temp_y = transform.position.y;
@@ -61,13 +58,15 @@ function start_activity () {
 
 function doActivity(){			
 	controller.enabled=false;
+
+	// move johnny
 	if (step == 1){
 		animation.Play("walk_01");
 		move();
 	}
 	
+	// camera move
 	if (step == 2){
-		//movimento camera
 		camera_movement.enabled=false;
 		camera_to_boy.enabled=true;
 		if (camera_to_boy.end==true){
@@ -75,8 +74,8 @@ function doActivity(){
 		}
 	}
 	
+	// physical activity
 	if (step == 3){
-		// animazione ginnastica
 		camera_to_boy.end=false;
 		camera_to_boy.enabled=false;
 		Activity();
@@ -89,15 +88,15 @@ function doActivity(){
 		}
 	}
 	
+	// come back
 	if (step == 4){
-		//ritorno a casa
 		animation.Play("walk_01");
 		move_back();
 		fatta=0;	
 	}
 	
+	// end setting
 	if (step == 5){
-		//fine
 		camera_movement.enabled=true;
 		step=0;
 		activity=false;		

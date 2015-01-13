@@ -97,7 +97,6 @@ function Update () {
 	}
 	
 	if (step==3){
-	
 		// score count, update score, add text
 		// PROBLEMA: dice che c'è una var locale i, ho dovuto mettere ii
 		for(var ii : int = 0; ii < 4; ii++){
@@ -128,7 +127,6 @@ function Update () {
 	if (step==4){
 		
 	}
-	
 }
 
 function AddScore (val:float){

@@ -40,7 +40,6 @@ function Update () {
 		}
 		WaitDeath();
 	}
-	
 }
 
 function WaitDeath(){

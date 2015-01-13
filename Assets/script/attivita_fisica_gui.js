@@ -27,9 +27,7 @@ function Update () {
 	x_pos_pix = x_pos*Screen.width/100;
 	y_pos_pix = y_pos*Screen.height/100;
 	guiTexture.pixelInset=Rect(x_pos_pix,y_pos_pix,x_width_pix,y_width_pix);
-	
 }
-
 
 function OnMouseDown(){
 	Debug.Log(v_b.GetJohnnyStatus());
