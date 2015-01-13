@@ -3,6 +3,8 @@ var offset_x : double;
 var offset_y : double;
 var offset_posY : double;
 
+var point_at : Transform;
+
 function Start () {
 	
 }
@@ -20,7 +22,7 @@ function Update() {
 	transform.position.z =  target.position.z;
 	transform.position.x =  target.position.x -offset_x;
 	transform.position.y =  target.position.y -offset_y;
-	transform.LookAt(target);
+	transform.LookAt(point_at);
 	transform.position.y =  target.position.y +offset_posY;
-	camera.fieldOfView = 46;
+	//camera.fieldOfView = 46;
 }

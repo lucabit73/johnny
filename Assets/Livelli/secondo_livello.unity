@@ -41249,7 +41249,7 @@ Camera:
     height: 1
   near clip plane: .300000012
   far clip plane: 1000
-  field of view: 46
+  field of view: 102
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -41282,9 +41282,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 675d6d226578e0440a33377311ebed16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  offset_x: 6.8499999046325684
-  offset_y: -.10999999940395355
-  offset_posY: 2.559999942779541
+  offset_x: -0
+  offset_y: 5.130000114440918
+  offset_posY: 1.7100000381469727
+  point_at: {fileID: 1444011864}
   target: {fileID: 75978048}
 --- !u!114 &1853058021
 MonoBehaviour:
