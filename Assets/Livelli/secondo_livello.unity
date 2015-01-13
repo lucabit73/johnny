@@ -41282,9 +41282,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 675d6d226578e0440a33377311ebed16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  offset_x: 6.8499999046325684
-  offset_y: -.10999999940395355
-  offset_posY: 2.559999942779541
+  offset_x: 8.4499998092651367
+  offset_y: .2199999988079071
+  offset_posY: 2.8299999237060547
   target: {fileID: 75978048}
 --- !u!114 &1853058021
 MonoBehaviour:
